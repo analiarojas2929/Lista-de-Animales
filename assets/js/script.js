@@ -10,7 +10,6 @@ class Animal {
         return `El tipo de animal es un: ${this._tipo}`;
     }
 
-    // Getter y Setter para nombre
     get nombre() {
         return this._nombre;
     }
